@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package com.gmail.romanrum45.Goods;
-
+//d sdf
 import javax.swing.JDialog;
 
 /**
